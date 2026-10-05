@@ -1,0 +1,1 @@
+{"name":"Flowmeter Calibration App","short_name":"Flowmeter Cal","description":"Offline industrial flowmeter calibration and certificate app","start_url":"./index.html","scope":"./","display":"standalone","orientation":"portrait","background_color":"#ffffff","theme_color":"#14395d","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
